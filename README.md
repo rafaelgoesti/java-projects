@@ -1,5 +1,5 @@
+![Texto Alternativo](![alt text](image-1.png))
 # Java Projects
-![Texto Alternativo](![alt text](image.png))
 
 Bem-vindo ao repositório de projetos em Java de Rafael!
 
