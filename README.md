@@ -1,5 +1,3 @@
-![Texto Alternativo](image-2.png)
-
 # Java Projects
 
 Bem-vindo ao repositório de projetos em Java de Rafael!
