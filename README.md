@@ -1,4 +1,4 @@
-![Texto Alternativo](![alt text](image-1.png))
+(image-2.png)
 # Java Projects
 
 Bem-vindo ao repositório de projetos em Java de Rafael!
