@@ -14,4 +14,4 @@ Este repositório contém diversos projetos desenvolvidos em Java. Aqui você en
 
 1. **Clone o repositório**:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/rafaelgoesti/java-projects.git
